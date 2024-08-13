@@ -49,7 +49,7 @@ const Sidebar = () => {
             <Image
             fill
             alt="Logo"
-            src="/Logo.svg"
+            src="/Logo.png"
             />
 
         </div>
